@@ -1,0 +1,9 @@
+{
+  "name": "EcoGuard Verifier",
+  "description": "A smart waste reporting system with AI-powered verification and geolocation tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
